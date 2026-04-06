@@ -5,7 +5,6 @@ using Soenneker.Git.Util.Abstract;
 using Soenneker.Sixtyfour.Runners.OpenApiClient.Utils.Abstract;
 using Soenneker.Utils.Dotnet.Abstract;
 using Soenneker.Utils.Environment;
-using Soenneker.Utils.Process.Abstract;
 using System;
 using System.IO;
 using System.Linq;
